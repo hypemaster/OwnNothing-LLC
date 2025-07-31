@@ -1,6 +1,10 @@
-# OwnNothing-LLC
-Automated AI Investing
-Infastructure Software & Consulting
+# Own Nothing LLC – AI Infrastructure & Capital Strategy
 
-Contact: ownnothingllc@proton.me
-own0.ai - COMING SOON
+Own Nothing LLC is a private entity focused on:
+- AI-assisted financial infrastructure
+- Internal automation tooling
+- Capital flow orchestration (personal use)
+
+This repository contains private operational structures and documentation for internal development purposes.
+
+Contact: owner@ownnothing.ai
