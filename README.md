@@ -39,6 +39,7 @@ We are not offering public SaaS or services at this time.
 - **NAICS Code:** 541512 – Computer Systems Design Services
 - **Industry:** Infrastructure as a Service (IaaS) / Financial Automation
 - **Status:** Active, in good standing
+- **Contact** ownnothingllc@proton.me
 
 ---
 
